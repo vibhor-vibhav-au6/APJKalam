@@ -11,9 +11,9 @@ You can find the code/project files for CCs or Assignments in their respective w
 
 **[Other Useful Vids](https://drive.google.com/drive/folders/16hsKcG3xVwg0myZTQAAU9KZ8X0K2of66?usp=sharing)**
 
-**[Socratica Python playlist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhqTkpmTFpPYUpacHJheXpnX2p2b3dURFVVQXxBQ3Jtc0tuS0NUTVJfbHp2VzV3UXM4NmFseVRmdzA4b0ZBZ19CSGdWUEpHUVFjeEFBMW1Cb2FZcllnTzFqZkpVRTliaWNMSGhxM3BIWVFFRlFQNUNQUk9kdkpwQ1gySjl5cXBrZG9tZmg1RFpseDgzdl80bzVwRQ&q=http%3A%2F%2Fbit.ly%2FPythonHelloWorld)**
+**[Socratica Python playlist *highly recomended*](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhqTkpmTFpPYUpacHJheXpnX2p2b3dURFVVQXxBQ3Jtc0tuS0NUTVJfbHp2VzV3UXM4NmFseVRmdzA4b0ZBZ19CSGdWUEpHUVFjeEFBMW1Cb2FZcllnTzFqZkpVRTliaWNMSGhxM3BIWVFFRlFQNUNQUk9kdkpwQ1gySjl5cXBrZG9tZmg1RFpseDgzdl80bzVwRQ&q=http%3A%2F%2Fbit.ly%2FPythonHelloWorld)**
 
-***highly recomended***
+
 
 
 
