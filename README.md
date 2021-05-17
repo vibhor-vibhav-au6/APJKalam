@@ -22,7 +22,7 @@ You can find the code/project files for CCs or Assignments in their respective w
 
 [MIT recursion problems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/MIT6_189IAP11_rec_problems.pdf)  
 [Carnegie Mellon University recursion exercise](http://www.cs.cmu.edu/~tcortina/activate/ct/lab8ques.pdf)  
-[GeeksForGeeks recusive problem set](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)** (Attempt **strings, arrays, basic &mathematical sections)  
+[GeeksForGeeks recusive problem set](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)(Attempt *strings, arrays, basic &mathematical sections*)  
 [W3Resource: set of 11 recursive problems](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)  
 [Sanfoundry: recursion MCQ](https://www.sanfoundry.com/python-questions-answers-recursion/)
 
