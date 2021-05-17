@@ -13,7 +13,7 @@ def find_perfect_square(N):
     if i*i>N:
       return False
 
-def find_perfect_square(N):
+def prime_number(N):
     prime_num = []
     for i in range(1, N):
         isPrime = True
