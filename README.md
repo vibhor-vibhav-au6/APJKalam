@@ -1,5 +1,7 @@
 ## A.P.J Kalam CC & Assignment solutions
 
+[![Run on Repl.it](https://repl.it/badge/github/vibhor-vibhav-au6/APJKalam)](https://repl.it/github/vibhor-vibhav-au6/APJKalam)
+
 You can find the code/project files for CCs or Assignments in their respective weekXX/dayXX folder.
 
 ### Links for CCs and Assignments discussion videos :
