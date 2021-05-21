@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./week7/day02cc.py"
+run = "python ./week4/w4assignment.py"

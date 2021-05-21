@@ -15,6 +15,8 @@ You can find the code/project files for CCs or Assignments in their respective w
 
 **[Socratica Python playlist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhqTkpmTFpPYUpacHJheXpnX2p2b3dURFVVQXxBQ3Jtc0tuS0NUTVJfbHp2VzV3UXM4NmFseVRmdzA4b0ZBZ19CSGdWUEpHUVFjeEFBMW1Cb2FZcllnTzFqZkpVRTliaWNMSGhxM3BIWVFFRlFQNUNQUk9kdkpwQ1gySjl5cXBrZG9tZmg1RFpseDgzdl80bzVwRQ&q=http%3A%2F%2Fbit.ly%2FPythonHelloWorld)** *(highly recomended)*
 
+**[DSA question bank - 450 questions](https://docs.google.com/spreadsheets/d/1PqC0O_iRmxjx1kEz7f_q693g3rCGWq4UHUjX-wyCVy4/edit?usp=sharing)** *[credit to [Love Babber](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw ) ]*
+
 
 
 
