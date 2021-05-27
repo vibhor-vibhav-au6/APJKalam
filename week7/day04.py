@@ -50,7 +50,7 @@ def Upper_Bound(arr, target):
       # Check if target is present at midPointer
       if arr[midPointer] == target:
           result = midPointer
-          leftPointer = midPointer+1
+          leftPointer = midPointer + 1
           
 
       # If target is greater, ignore left half
@@ -73,6 +73,8 @@ Output : - 5 or 13 (anyone)
 HINT : - Peak element is the element which is greater than both
 neighhbours.
 '''
+arr = [5,3,7,9,13,8] 
+
 def FindPeak(arr ):
   if arr == []:
     return
