@@ -23,6 +23,7 @@ def binarySearch(arr, target):
       # If target is greater, ignore left half
       elif arr[midPointer] < target:
           leftPointer = midPointer + 1
+       
 
       # If target is smaller, ignore right half
       else:
