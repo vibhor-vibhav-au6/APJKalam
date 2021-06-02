@@ -4,11 +4,10 @@ Write a program to print sum of right diagonal of a matrix:
 
 def rtDiagonalSum(matrix):
   # i = len(matrix)
-  j = len(matrix[0]) - 1
+  n = len(matrix[0]) - 1
   sum = 0
   for i in range(len(matrix)):
-    sum += matrix[i][j-i]
-    print (sum)
+    sum += matrix[i][n-i]
 
   return sum
 
