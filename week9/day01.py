@@ -18,6 +18,8 @@ def sumDigits(num):
   if num < 10 :
     return num
   return num%10 + sumDigits(num//10)
+  return num + sumDigits(14)
+
 
 
 # print(sumDigits(1))
@@ -41,6 +43,8 @@ def recusiveMul(x,y):
     return 0
   return x + recusiveMul(x,y-1)
 
-print(recusiveMul(4,5))
 
-# 4*5 = 4+4+4+4+4 = 5+5+5+5
+
+
+
+
