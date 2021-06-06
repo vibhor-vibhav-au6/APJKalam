@@ -1,5 +1,5 @@
 language = "python3"
-#run = "python ./week3/assignment.py"
-run = "python ./week9/day02.py"
+run = "python ./week8/assignment.py"
+#run = "python ./week9/day02.py"
 #run = "python rough.py"
 #https://docs.google.com/spreadsheets/d/1T_qcjmvxx2NJ1_uQRTWI7N5t-M7nvtGi20JVArhmgXg/edit#gid=1008074029
