@@ -7,7 +7,12 @@ You can find the code/project files for CCs or Assignments in their respective w
 ### Links for CCs and Assignments discussion videos :
 
 **[Coding Challenges TA session recorded videos](https://drive.google.com/drive/folders/1HHdeUZZGxVNMjWSCGfFB_9LcMNTb2qEW)**  
-**[Assignments TA sessions recorded video](https://drive.google.com/drive/folders/14yF4V2XDqXoKKdSZLMXRQ6F0txMJNb8A)**
+**[Assignments TA sessions recorded video](https://drive.google.com/drive/folders/14yF4V2XDqXoKKdSZLMXRQ6F0txMJNb8A)**  
+[Monthly Test Solutions](https://drive.google.com/drive/folders/1glxGA6kHXn7gq-O9eHFSuJDJfDuInmB4?usp=sharing)  
+
+
+
+
 
 ### Online resources and playlists: 
 

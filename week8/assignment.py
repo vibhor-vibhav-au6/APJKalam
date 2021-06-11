@@ -26,6 +26,8 @@ def binarySearchUpperBound(arr, target):
     if arr[mid] == target:
       upperBound = mid
       left = mid+1
+
+      [1,2,3,3,3,4,5]
       
     
     elif arr[mid] < target:
@@ -41,23 +43,24 @@ def binarySearchUpperBound(arr, target):
 Find largest number in a list, and second largest number (without using inbuilt functions).
 '''
 
-def largest2numbers(arr):
-  for i in range(len(arr)):
-    minIndex = i
-    for j in range(i+1,len(arr)):
-      if arr[i] > arr[j]:
-        minIndex = j
+# def largest2numbers(arr):
+#   for i in range(len(arr)):
+#     minIndex = i
+#     for j in range(i+1,len(arr)):
+#       if arr[i] > arr[j]:
+#         minIndex = j
     
-    arr[minIndex], arr[i] = arr[i], arr[minIndex]
+#     arr[minIndex], arr[i] = arr[i], arr[minIndex]
+#   print(*arr)
   
-  res = []
-  res.append(arr[-1])
+#   res = []
+#   res.append(arr[-1])
 
   
-  for i in range(len(arr)-2,-1, -1):
-    if res[0] != arr[i]:
-      res.append(arr[i])
-      return res
+  # for i in range(len(arr)-2,-1, -1):
+  #   if res[0] != arr[i]:
+  #     res.append(arr[i])
+  #     return res
 
 # def largest2numbers(arr):
 #   largest = 0
@@ -65,9 +68,9 @@ def largest2numbers(arr):
 
 #   for i in range(len(arr)):
 
-#     if arr[i] > arr[largest]:
+#     if arr[i] >= arr[largest]:
 #       largest2nd = largest
 #       largest = i
-# return (arr[largest], arr[largest2nd])
+#   return (arr[largest], arr[largest2nd])
 
 print(largest2numbers([9,3,4,5,8,1,2,3,4,9,6,9]))
