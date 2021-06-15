@@ -21,7 +21,7 @@ n = 5
 
 
 '''
-n = 5
+n = 3
   1
  121
 12321
@@ -32,7 +32,7 @@ n = 4
 1234321 
 '''
 # for i in range(1,n+1):
-#   l = [j for j in range(1,i+1)]  
+#   l = [j for j in range(1,i+1)]
 #   l = l[:-1:]+l[::-1]
 #   print(' '*(n-i), *l, sep = '')
   
@@ -99,6 +99,6 @@ n = 5
 '''
 
 for i in range(n-1):
-  print('.'*(n-i-2), ' '*i,' '*i, '.'*(n-i-1),sep ='')
-for i in range(n-2,-1,-1):
-  print('.'*(n-i-1), ' '*i,' '*i, '.'*(n-i-1),sep ='' )
+  print('.'*(n-i-1), ' '*i,' '*(i-1), '.'*(n-i-1),sep ='')
+for i in range(n-3,-1,-1):
+  print('.'*(n-i-1), ' '*i,' '*(i-1), '.'*(n-i-1),sep ='' )

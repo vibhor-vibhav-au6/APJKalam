@@ -1,11 +1,14 @@
-s = 'a2c3f6'
 
-def stringGen(s):
-  if len(s) == 0:
-    return s
+def hammingWeight(n):
+    
+    sum = 0
+    
+    while(n != 0):
+        sum += 1
+        print(bin(n), bin(n-1))
+        n = n & (n-1)
+        
+        
+    return sum
 
-  return s[0]*int(s[1]) + stringGen(s[2:])
-
-print(stringGen(s))
-
-
+print(hammingWeight(0b1011))
